@@ -1,4 +1,4 @@
-import Cachimovies from '../assets/images/Cachimovies.png'
+import Cachimovies from '../assets/images/cachimovies.png'
 import apptastico from '../assets/images/apptastico.png'
 import bleux from '../assets/images/bleux.png'
 import blueasy from '../assets/images/blueasy.png'
@@ -12,21 +12,21 @@ const projects = [
         url: "https://venerable-kringle-c77bde.netlify.app"
     },
     {
-        id: 4,
+        id: 2,
         title: "Apptastico",
         description: "Aplicación web sobre diseño web en dispositivos móviles",
         img: apptastico,
         url: "https://peaceful-liger-7be36f.netlify.app/"
     },
     {
-        id: 2,
+        id: 3,
         title: "Bleux",
         description: "Aplicación web sobre planes y ofertas de desarrollo",
         img: bleux,
         url: "https://sunny-pudding-44d8f8.netlify.app/"
     },
     {
-        id: 3,
+        id: 4,
         title: "BluEasy",
         description: "Aplicación web sobre galería de fotos y fines relacionados",
         img: blueasy,
