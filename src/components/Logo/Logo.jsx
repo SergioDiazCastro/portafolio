@@ -1,5 +1,5 @@
 
-import logo from "../Logo/images/logo.png"
+import logo from "../Logo/Images/logo.png"
 
 export const Logo = () => {
   return (
